@@ -1,0 +1,1 @@
+cmd_/home/centos/lab/driver/hello/.build/device_attr.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/centos/lab/driver/hello/.build/device_attr.ko /home/centos/lab/driver/hello/.build/device_attr.o /home/centos/lab/driver/hello/.build/device_attr.mod.o;  true

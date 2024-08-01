@@ -1,0 +1,1 @@
+cmd_/home/centos/lab/driver/hello/.build/irq.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/centos/lab/driver/hello/.build/irq.ko /home/centos/lab/driver/hello/.build/irq.o /home/centos/lab/driver/hello/.build/irq.mod.o;  true

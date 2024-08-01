@@ -1,0 +1,1 @@
+cmd_/home/centos/lab/driver/hello/.build/Module.symvers := sed 's/ko$$/o/' /home/centos/lab/driver/hello/.build/modules.order | scripts/mod/modpost     -o /home/centos/lab/driver/hello/.build/Module.symvers -e -i Module.symvers   -T -
